@@ -1,0 +1,14 @@
+body {
+  background-image: url(obrazki/tlo.jpeg);
+  background-size: 30%;
+}
+
+h1 {
+  font-family: Arial;
+  color: red;
+
+}
+
+#moj-obrazek {
+  float: right;
+}
